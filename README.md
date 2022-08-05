@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohit Kumar Agarwal
 - 👀 I’m interested in programming, tech, chess, finance, startups.
-- 🌱 I’m currently learning DSA.
+- 🌱 I’m currently learning DSA & Flutter.
 - I am available on 
     Twitter - https://twitter.com/RohitZeroFour
     Linkedin - https://www.linkedin.com/in/rohitzerofour/
