@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=rohitzerofour)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40rohitzerofour)](https://twitter.com/rohitzerofour)
     
-[![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rohitzerofour&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rohitzerofour&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) --->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--- ![Leetcode Stats](https://leetcard.jacoblin.cool/rohitzerofour) --->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rohitzerofour)](https://git.io/streak-stats)
