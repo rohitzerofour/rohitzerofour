@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar Agarwal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitzerofour&label=Profile%20views&color=6068d7&style=plastic" alt="rohitzerofour" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rohitzerofour" target="blank"><img src="https://img.shields.io/twitter/follow/rohitzerofour?logo=twitter&style=for-the-badge" alt="rohitzerofour" /></a> </p>
-
 - 🌱 I’m currently learning **flutter, DSA**
 
 - 📫 How to reach me **rohitzerofour@gmail.com**
