@@ -122,7 +122,7 @@ void f(){
     fact[0] = 1;
     fact[1] = 1;
     for(ll i = 2; i<fact_size; i++){
-        fact[i] = (fact[i-1] * i) % mod;
+        fact[i] = (fact[i-1] * i) % MOD;
     }
 }
 
@@ -131,16 +131,16 @@ ll power(ll x, ll n){
     ll ans = 1;
     while(n > 0){
         if(n & 1){
-            ans = (ans * x) % mod;
+            ans = (ans * x) % MOD;
         }
-        x = (x * x) % mod;
+        x = (x * x) % MOD;
         n >>= 1;
     }
     return ans;
 }
 //MULTIPLICATIVE INVERSE calculation
 ll inv(ll n){
-    return (power(n, mod - 2) % mod);
+    return (power(n, MOD - 2) % MOD);
 }
 
 void solve(){
