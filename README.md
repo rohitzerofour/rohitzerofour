@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Rohit Kumar Agarwal</h1>
-<h3 align="center">Competitive Programmer & Full Stack Developer</h3>
+<h1 align="left">Hi 👋, I'm Rohit Kumar Agarwal</h1>
+<h3 align="left">Competitive Programmer & Full Stack Developer</h3>
 
-<p align="center">
+<p align="left">
     <img src="https://komarev.com/ghpvc/?username=rohitzerofour&label=Visitors&color=1900d6&style=flat" alt="rohitzerofour" />
 </p>
 
 
-- 📫 **How to reach me:** **rohitzerofour@gmail.com**
+<p align="left">📫 <strong>How to reach me:</strong> rohitzerofour@gmail.com</p>
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
     <a href="https://twitter.com/rohitzerofour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohitzerofour" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/rohitzerofour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitzerofour" height="30" width="40" /></a>
     <a href="https://www.codechef.com/users/rohitzerofour" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rohitzerofour" height="30" width="40" /></a>
@@ -22,8 +22,8 @@
 </p>
 
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
     </a>
@@ -112,7 +112,7 @@
 </p>
 
 
-<h3 align="center">🏆 GitHub Trophies</h3>
+<h3 align="left">🏆 GitHub Trophies</h3>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitzerofour&theme=darkhub" alt="Trophies" /></a>
 </p>
