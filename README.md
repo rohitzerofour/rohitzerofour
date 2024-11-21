@@ -5,12 +5,6 @@
     <img src="https://komarev.com/ghpvc/?username=rohitzerofour&label=Visitors&color=1900d6&style=flat" alt="rohitzerofour" />
 </p>
 
-<p align="center">
-    <a href="https://twitter.com/rohitzerofour" target="blank">
-        <img src="https://img.shields.io/twitter/follow/rohitzerofour?logo=twitter&style=for-the-badge" alt="rohitzerofour" />
-    </a>
-</p>
-
 ---
 
 - 📫 **How to reach me:** **rohitzerofour@gmail.com**
